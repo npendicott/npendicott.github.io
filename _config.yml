@@ -255,10 +255,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # projec
+  # _projects
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
       author_profile: true
