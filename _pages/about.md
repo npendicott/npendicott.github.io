@@ -1,7 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-author_profile: false
 ---
 
 # Nathaniel Endicott
@@ -10,8 +9,11 @@ author_profile: false
 
 ## Education
 **The George Washington University**(September 2013 - May 2017)
+
 **Bachelor of Science** in Systems Engineering
+
 **Minors** in Computer Science and Economics                                                  
+
 **GPA:** 3.15
 
 ## Skills
