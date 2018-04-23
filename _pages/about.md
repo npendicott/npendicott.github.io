@@ -1,11 +1,12 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: false
 ---
 
-# H1 Nathaniel Endicott
-### *A recent George Washington University grad interested in software and web*
-### *development, integrated statistical approaches, and systems architecture.*
+# Nathaniel Endicott
+*A recent George Washington University grad interested in software and web*
+*development, integrated statistical approaches, and systems architecture.*
 
 ## Education
 **The George Washington University**(September 2013 - May 2017)
