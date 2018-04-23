@@ -8,9 +8,9 @@ permalink: /about/
 *development, integrated statistical approaches, and systems architecture.*
 
 ## Education
-**The George Washington University**(2013 - 2017)
-**Bachelor of Science** in Systems Engineering
-**Minors** in Computer Science and Economics                                                  
+**The George Washington University**(2013 - 2017)  
+**Bachelor of Science** in Systems Engineering  
+**Minors** in Computer Science and Economics  
 **GPA:** 3.15
 
 ## Skills
