@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathaniel Endicott"
+title                    : "Nate's Blog"
 title_separator          : "-"
 name                     : "Nathaniel Endicott"
-description              : "Nathaniel's Portfolio."
+description              : "Your standard Jekyll blog."
 url                      : # "https://npendicott.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Nathaniel Endicott"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'll put my linkedin phrase here probably."
-  location         : "2024 N Scott St. Arlington, V.A."
+  bio              : "Your standard Jekyll blog."  # "Microsoft in the streets, Linux in the sheets."
+  location         : "Arlington VA"
   email            : "npendicott@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -110,13 +110,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "npendicott"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "nathaniel-endicott-642316b6"  # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -255,10 +255,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _projects
+  # _posts
   - scope:
       path: ""
-      type: projects
+      type: posts
     values:
       layout: single
       author_profile: true

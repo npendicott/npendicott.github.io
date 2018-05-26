@@ -4,8 +4,7 @@ permalink: /about/
 ---
 
 # Nathaniel Endicott
-*A recent George Washington University grad interested in software and web*
-*development, integrated statistical approaches, and systems architecture.*
+*A recent George Washington University grad interested in software and web development, integrated statistical approaches, and systems architecture.*
 
 ## Education
 **The George Washington University** (2013 - 2017)  

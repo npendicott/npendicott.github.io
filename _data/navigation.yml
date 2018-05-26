@@ -5,11 +5,12 @@ main:
   - title: "Experience"
     url: /experience/
   - title: "Projects"
-    url: /projects/
-  - title: "Borken Link"
+    url: /posts/
+  - title: "Broken Link"
     url: /some-bad-url/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
