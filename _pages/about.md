@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+header:
+  image: "/images/MPPT.jpg"
 ---
 
 # Nathaniel Endicott
